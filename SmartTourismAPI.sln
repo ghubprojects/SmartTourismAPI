@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTourismAPI.WebApi", "SmartTourismAPI.WebApi\SmartTourismAPI.WebApi.csproj", "{1EF4839C-9BDB-4181-96E0-0C420B2F9C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTourismAPI.Application", "SmartTourismAPI.Application\SmartTourismAPI.Application.csproj", "{26D777FA-D63E-4966-9A90-9D3768B1CF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTourismAPI.Infrastructure", "SmartTourismAPI.Infrastructure\SmartTourismAPI.Infrastructure.csproj", "{ADAF3422-9876-4FC5-967E-F493D32AE13D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTourismAPI.Domain", "SmartTourismAPI.Domain\SmartTourismAPI.Domain.csproj", "{FB5E229F-2933-4590-89FF-E97C64D4884D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF4839C-9BDB-4181-96E0-0C420B2F9C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF4839C-9BDB-4181-96E0-0C420B2F9C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF4839C-9BDB-4181-96E0-0C420B2F9C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF4839C-9BDB-4181-96E0-0C420B2F9C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D777FA-D63E-4966-9A90-9D3768B1CF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D777FA-D63E-4966-9A90-9D3768B1CF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D777FA-D63E-4966-9A90-9D3768B1CF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D777FA-D63E-4966-9A90-9D3768B1CF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAF3422-9876-4FC5-967E-F493D32AE13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAF3422-9876-4FC5-967E-F493D32AE13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAF3422-9876-4FC5-967E-F493D32AE13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAF3422-9876-4FC5-967E-F493D32AE13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5E229F-2933-4590-89FF-E97C64D4884D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5E229F-2933-4590-89FF-E97C64D4884D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5E229F-2933-4590-89FF-E97C64D4884D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5E229F-2933-4590-89FF-E97C64D4884D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
